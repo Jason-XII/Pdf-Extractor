@@ -25,3 +25,8 @@ pip install PyPDF2
 ## Bugs
 
 There are no certain bugs for now. But if you found a bug, please report it in the "Issue" section. I will do my  best to fix them. This package is only tested on python 3, so if you are using python 2 or lower, I don't know if this is going to work.
+
+> *If you think this is helpful to you, please give me a star to let me know this is well done.* 
+
+*Created on 2020-7-3, By Jason-XII*
+
