@@ -1,7 +1,7 @@
 # PDF Extractor
  PDF documents are very popular and widely used. Sometimes, we want to operate with the pdf files,  like turning them into another format like Word. There are many tools on line that can operate them, but often have page limits. If you want to extract the tables from a PDF and turn them into excel files, you can use this tool to extract the pages with the tables on them and turn them into excels using altopdf(An online tool that I recommend)
 
-This is picture when the program runs:
+This is the picture when the program runs:
 
 <img src='screen shot.bmp'>
 
@@ -24,7 +24,7 @@ pip install PyPDF2
 
 ## Bugs
 
-There are no certain bugs for now. But if you found a bug, please report it in the "Issue" section. I will do my  best to fix them. This package is only tested on python 3, so if you are using python 2 or lower, I don't know if this is going to work.
+There are no found bugs for now. But if you find a bug, please report it in the "Issue" section. I will do my best to fix them. This package has only been tested on python 3, so if you are using python 2 or lower, I don't know if this is going to work.
 
 > *If you think this is helpful to you, please give me a star to let me know this is well done.* 
 
